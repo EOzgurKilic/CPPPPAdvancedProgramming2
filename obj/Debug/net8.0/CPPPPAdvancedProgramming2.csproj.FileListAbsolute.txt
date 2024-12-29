@@ -1,0 +1,14 @@
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/bin/Debug/net8.0/CPPPPAdvancedProgramming2
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/bin/Debug/net8.0/CPPPPAdvancedProgramming2.deps.json
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/bin/Debug/net8.0/CPPPPAdvancedProgramming2.runtimeconfig.json
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/bin/Debug/net8.0/CPPPPAdvancedProgramming2.dll
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/bin/Debug/net8.0/CPPPPAdvancedProgramming2.pdb
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/obj/Debug/net8.0/CPPPPAdvancedProgramming2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/obj/Debug/net8.0/CPPPPAdvancedProgramming2.AssemblyInfoInputs.cache
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/obj/Debug/net8.0/CPPPPAdvancedProgramming2.AssemblyInfo.cs
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/obj/Debug/net8.0/CPPPPAdvancedProgramming2.csproj.CoreCompileInputs.cache
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/obj/Debug/net8.0/CPPPPAdvancedProgramming2.dll
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/obj/Debug/net8.0/refint/CPPPPAdvancedProgramming2.dll
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/obj/Debug/net8.0/CPPPPAdvancedProgramming2.pdb
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/obj/Debug/net8.0/CPPPPAdvancedProgramming2.genruntimeconfig.cache
+/Users/orkhanrahimli/RiderProjects/CPPPPAdvancedProgramming2/obj/Debug/net8.0/ref/CPPPPAdvancedProgramming2.dll
